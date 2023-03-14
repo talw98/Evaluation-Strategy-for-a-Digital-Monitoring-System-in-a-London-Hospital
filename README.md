@@ -7,4 +7,4 @@ The evaluation strategy needs to cover three broad areas which are:
 
 3.     How these challenges might be overcome?
 
-The peer graded assignment can be accessed from here: https://www.coursera.org/learn/evaluation-of-digital-health-interventions/peer/hvcWl/evaluation-strategy-for-a-digital-monitoring-system-in-a-london-hospital.
+The peer graded assignment of the course can be accessed from [here.](https://www.coursera.org/learn/evaluation-of-digital-health-interventions/peer/hvcWl/evaluation-strategy-for-a-digital-monitoring-system-in-a-london-hospital)
